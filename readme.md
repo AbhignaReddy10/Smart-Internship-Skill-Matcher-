@@ -84,7 +84,7 @@ streamlit run app.py
 
 ## 🌍 Live Demo
 
-(After deployment, paste your Streamlit Cloud link here)
+https://bjqedv4wm5ngdrhntk5c6w.streamlit.app/
 
 ---
 
@@ -102,3 +102,4 @@ streamlit run app.py
 ## 👩‍💻 Author
  
 N. Abhigna Reddy 
+
