@@ -5,7 +5,7 @@ s.set_page_config(page_title="SMART INTERNSHIP MATCHER")
 s.markdown("""
     <style>
     .main {
-        background-color: #0E1117;
+        background-color: #7C3AED;
         color: white;
     }
     .stTextInput>div>div>input {
@@ -89,4 +89,5 @@ if s.button("Check Match"):
             s.success("Perfect Match!")        
 
     
+
     
