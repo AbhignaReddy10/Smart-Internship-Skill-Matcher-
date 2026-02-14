@@ -6,7 +6,7 @@ s.markdown("""
     <style>
     .main {
         background-color: #7C3AED;
-        color: white;
+        color: pink;
     }
     .stTextInput>div>div>input {
         background-color: #262730;
@@ -91,4 +91,5 @@ if s.button("Check Match"):
     
 
     
+
 
