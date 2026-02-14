@@ -10,15 +10,15 @@ s.markdown("""
     }
     .stTextInput>div>div>input {
         background-color: #262730;
-        color: white;
+        color: pink;
     }
     .stSelectbox>div>div {
         background-color: #262730;
-        color: white;
+        color: pink;
     }
     .stButton>button {
         background: linear-gradient(90deg, #7C3AED, #9333EA);
-        color: white;
+        color: pink;
         border-radius: 12px;
         height: 3em;
         width: 100%;
@@ -91,3 +91,4 @@ if s.button("Check Match"):
     
 
     
+
